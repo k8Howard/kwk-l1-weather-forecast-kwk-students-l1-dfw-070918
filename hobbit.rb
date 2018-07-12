@@ -28,6 +28,7 @@ class Book
     @num_pages = new_num_pages
   end
 end
+
 hobbit = Book.new("the hobbit", "J.R.R. Tolkiin", 403)
 
 hobbit.title 
