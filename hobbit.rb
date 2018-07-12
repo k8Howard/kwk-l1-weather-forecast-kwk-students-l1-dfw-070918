@@ -42,3 +42,23 @@ hobbit.update_author("J.R.R Tolkein")
 hobbit.update_title("The Hobbit ")
 
 hobbit.update_num_pages(304)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
